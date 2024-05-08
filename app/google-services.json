@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019448092729",
+    "project_id": "unuevodestino",
+    "storage_bucket": "unuevodestino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019448092729:android:d0023b77b9e4c7ed5485e8",
+        "android_client_info": {
+          "package_name": "com.example.unuevodestino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBaGdkZHFnxVJ9Vqo9UtfNVObSEsKGrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
